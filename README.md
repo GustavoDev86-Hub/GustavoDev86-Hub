@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou o Gustavo Viana! 👋</h1>
-  <p>Junior Backend Developer | Java & Spring Boot Enthusiast</p>
+  <p>Estagiario Backend Developer | Java & Spring Boot Enthusiast</p>
 
   ### Minhas Stacks e Ferramentas
   
@@ -13,10 +13,4 @@
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
   ---
-  
-  <p align="center">
-    <a href="https://github.com/GustavoDev86-Hub">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDev86-Hub&layout=compact&theme=dark" />
-    </a>
-  </p>
 </div>
