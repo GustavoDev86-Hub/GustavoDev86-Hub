@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Olá! Eu sou o Gustavo Viana! 👋</h1>
-  <p>Estagiário Backend Developer | Java & Spring Boot Enthusiast</p>
+  <p>I am a junior-level developer, passionate and curious, always looking to build a community for learning. I am currently studying Internet Systems Technology, focusing on web development, specifically Java + Spring with Docker.
+I develop using Debian 13 Linux.</p>
 
   ### Minhas Stacks e Ferramentas
   
