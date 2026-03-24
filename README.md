@@ -10,9 +10,9 @@
   
   <p>Desenvolvimento de APIs RESTful escaláveis, implementação de segurança com Spring Security, persistência de dados com Spring Data JPA e integração de serviços.</p>
   
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  
-  <p>Conteinerização de aplicações para garantir paridade entre ambientes de desenvolvimento e produção, além de orquestração de serviços com Docker Compose.</p>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) + ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<p>Conteinerização de aplicações para garantir paridade entre ambientes e orquestração de clusters para alta disponibilidade e escalonamento automático de serviços.</p>
   
   ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   
@@ -22,6 +22,10 @@
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   
   <p>Desenvolvimento de aplicações MVC modernas, gerenciamento de rotas, middlewares e integração de sistemas legados ou novas funcionalidades</p>
+
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) + ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<p>Construção de aplicações robustas com ASP.NET Core, foco em Web APIs, Entity Framework e padrões de projeto como Clean Architecture.</p>
 
   ---
 
